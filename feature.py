@@ -1,7 +1,7 @@
 def main():
     print("i've come to talk with you again")
     print("here must be conflict ?")
-    print("6 commit")
+    print("7 commit")
 
 
 if __name__ == '__main__':
